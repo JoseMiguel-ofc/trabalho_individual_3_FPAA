@@ -43,11 +43,7 @@ O algoritmo implementado utiliza a técnica de backtracking para encontrar um Ca
    ```
    git clone https://github.com/JoseMiguel-ofc/trabalho_individual_3_FPAA.git
    ```
-3. Navegue até o diretório do projeto:
-   ```
-   cd caminho-hamiltoniano
-   ```
-4. Execute o programa:
+3. Execute o programa:
    ```
    python main.py
    ```
